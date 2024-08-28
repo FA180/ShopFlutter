@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "297252932401",
+    "firebase_url": "https://ihdaa-dfaae-default-rtdb.firebaseio.com",
+    "project_id": "ihdaa-dfaae",
+    "storage_bucket": "ihdaa-dfaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297252932401:android:787ebac0732aaf6dfebe10",
+        "android_client_info": {
+          "package_name": "com.example.dono"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlStt76RMRTbxzqPitj-0o2VLWZHmeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297252932401:android:18ff1522b256132dfebe10",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlStt76RMRTbxzqPitj-0o2VLWZHmeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297252932401:android:34d53f6bfbad534efebe10",
+        "android_client_info": {
+          "package_name": "com.example.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlStt76RMRTbxzqPitj-0o2VLWZHmeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297252932401:android:f7b7336dbc66a9d4febe10",
+        "android_client_info": {
+          "package_name": "com.example.tadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlStt76RMRTbxzqPitj-0o2VLWZHmeOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
